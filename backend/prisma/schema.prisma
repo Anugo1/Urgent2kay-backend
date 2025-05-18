@@ -78,7 +78,7 @@ enum Priority {
   HIGH
 }
 
-export enum BillStatus {
+enum BillStatus {
   PENDING = 'PENDING',
   APPROVED = 'APPROVED',
   REJECTED = 'REJECTED',
